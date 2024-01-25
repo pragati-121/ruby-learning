@@ -19,3 +19,4 @@ puts full_name
 
 puts full_name.class
 #you can invoke methods on anything like here we have checked method class on an string
+
